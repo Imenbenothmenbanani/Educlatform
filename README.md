@@ -51,7 +51,7 @@ Développé dans le cadre du **TP10 - React & IA** de ma formation en **4ème an
 
 ### Aperçu visuel
 
-![Démo EduPlatform](img/demo.gif)
+![Démo EduPlatform](img/demo.mp4)
 
 ### Vidéo complète
 
@@ -1343,9 +1343,8 @@ npm run dev
 
 ### Besoin d'aide ?
 
-- 📧 **Email** : imen.benothmen@example.com
-- 💬 **Discord** : [Rejoindre le serveur](https://discord.gg/example)
-- 🐛 **Issues GitHub** : [Créer une issue](https://github.com/imenbenothmen/eduplatform/issues)
+- 📧 **Email** : imenbenothmenbanani@gmail.com
+
 
 ### Contribuer au projet
 
