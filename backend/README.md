@@ -960,21 +960,16 @@ Technologies       : 7
 
 **Imen BEN OTHMEN BANANI**
 
-- 🎓 Étudiante en 4ème année **Data Science**
+- 🎓 Étudiante en 5ème année **Data Science**
 - 💻 Spécialisation : **MERN Stack Development**
-- 📧 Email : **imen@gmail.com**
-- 🌐 Portfolio : [À venir]
-- 💼 LinkedIn : [À venir]
-- 🐙 GitHub : [@imenbenothmen](https://github.com/imenbenothmen)
+- 📧 Email : **imenbenothmenbanani@gmail.com*
 
 ---
 
 ## 📅 Informations du projet
 
-- **Projet** : TP5 - Authentification JWT & API REST
+- **Projet** : TP9 - Authentification JWT & API REST
 - **Formation** : MERN Stack - Poly Project
-- **Date de création** : Décembre 2024
-- **Dernière mise à jour** : 15 Décembre 2024
 - **Version** : 1.0.0
 
 ---
