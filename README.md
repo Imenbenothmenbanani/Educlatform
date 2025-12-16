@@ -1007,57 +1007,6 @@ eduplatform/
 | `POST` | `/api/ai/generate-bio` | Générer une bio | ✅ |
 | `GET` | `/api/ai/dashboard-insights` | Analytics admin | ✅ Admin |
 
----
-
-## 📸 Captures d'écran
-
-### Page d'accueil
-
-![Page d'accueil](img/home.png)
-
-*Interface moderne et accueillante avec appel à l'action*
-
----
-
-### Catalogue de cours
-
-![Catalogue](img/courses-catalog.png)
-
-*Grille responsive avec recherche et filtres*
-
----
-
-### Dashboard Administrateur
-
-![Dashboard](img/dashboard-admin.png)
-
-*Métriques en temps réel et insights IA*
-
----
-
-### Chatbot Assistant
-
-![Chatbot](img/chatbot.png)
-
-*Conversation en temps réel avec l'IA*
-
----
-
-### Générateur de Quiz
-
-![Quiz](img/quiz-generator.png)
-
-*Interface de génération et passage de quiz*
-
----
-
-### Recommandations
-
-![Recommandations](img/recommendations.png)
-
-*Suggestions personnalisées basées sur l'IA*
-
----
 
 ## 🛠️ Technologies utilisées
 
@@ -1176,12 +1125,6 @@ app.use(cors({
 
 **Imen BEN OTHMEN BANANI**
 
-- 🎓 **Formation** : Étudiante en 4ème année Data Science
-- 💻 **Spécialisation** : MERN Stack Development & Intelligence Artificielle
-- 📧 **Email** : imen.benothmen@example.com
-- 🌐 **Portfolio** : [À venir]
-- 💼 **LinkedIn** : [linkedin.com/in/imenbenothmen](https://linkedin.com/in/imenbenothmen)
-- 🐙 **GitHub** : [@imenbenothmen](https://github.com/imenbenothmen)
 
 ### À propos de moi
 
@@ -1210,16 +1153,6 @@ Passionnée par le développement web et l'Intelligence Artificielle, je crée d
 
 ---
 
-## 📝 Licence
-
-Ce projet est un **travail académique** réalisé dans le cadre de ma formation en Data Science.
-
-**Usage** : Éducatif, Portfolio et Démonstration uniquement
-
-**Droits** : Tous droits réservés © 2024 Imen BEN OTHMEN BANANI
-
----
-
 ## 🙏 Remerciements
 
 - 👨‍🏫 **Mes formateurs** pour leur accompagnement
@@ -1239,17 +1172,6 @@ Ce projet est un **travail académique** réalisé dans le cadre de ma formation
 - 📙 [Google Gemini API](https://ai.google.dev/docs)
 - 📓 [Express.js Guide](https://expressjs.com/)
 
-### Tutoriels suivis
-
-- [MERN Stack Tutorial 2024](https://www.youtube.com/watch?v=98BzS5Oz5E4)
-- [Google Gemini API Integration](https://www.youtube.com/watch?v=example)
-- [JWT Authentication in MERN](https://www.youtube.com/watch?v=example)
-
-### Articles de référence
-
-- [Building AI-Powered Applications](https://example.com/article)
-- [MERN Stack Best Practices](https://example.com/article)
-- [React Performance Optimization](https://example.com/article)
 
 ---
 
@@ -1325,9 +1247,6 @@ Les contributions sont les bienvenues ! Consultez [CONTRIBUTING.md](CONTRIBUTING
 
 ## ⭐ Si ce projet vous inspire, donnez-lui une étoile ! ⭐
 
-**Développé avec ❤️ et ☕ par Imen BEN OTHMEN BANANI**
-
-*"L'éducation est l'arme la plus puissante pour changer le monde." - Nelson Mandela*
 
 </div>
 
