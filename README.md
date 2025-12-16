@@ -51,11 +51,8 @@ Développé dans le cadre du **TP10 - React & IA** de ma formation en **4ème an
 
 ### Aperçu visuel
 
-![Démo EduPlatform](img/demo.mp4)
+![Démo Educlatform](img/demo.mp4)
 
-### Vidéo complète
-
-📹 **[Voir la démonstration vidéo complète](https://drive.google.com/file/d/1A3j0bLfYcTBsRuHPqJUxNfQ5zps1P8S4/view?usp=sharing)**
 
 *Découvrez toutes les fonctionnalités en action : génération de quiz, chatbot, dashboard admin et plus encore !*
 
