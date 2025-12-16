@@ -46,13 +46,6 @@ Transformer l'éducation en ligne en combinant :
 Développé dans le cadre du **TP10 - React & IA** de ma formation en **4ème année Data Science**, ce projet démontre la maîtrise complète de la stack MERN enrichie par des capacités d'Intelligence Artificielle via Google Gemini.
 
 ---
-## 🎬 Démonstration
-
-### Aperçu visuel
-
-🎥 [Voir la vidéo de démonstration](https://github.com/imenbenothmenbanani/Educlatform/raw/main/img/demo.mp4)
-
-*Découvrez toutes les fonctionnalités en action : génération de quiz, chatbot, dashboard admin et plus encore !*
 
 ## 🤖 Fonctionnalités IA
 
