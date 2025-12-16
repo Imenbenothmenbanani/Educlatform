@@ -77,9 +77,6 @@ Développé dans le cadre du **TP10 - React & IA** de ma formation en **4ème an
 - 💡 Suggestions d'amélioration
 - 📋 Rapports automatiques
 
-**Capture d'écran :**
-
-![Dashboard Admin](img/dashboard-admin.png)
 
 ---
 
@@ -124,9 +121,6 @@ Développé dans le cadre du **TP10 - React & IA** de ma formation en **4ème an
 }
 ```
 
-**Capture d'écran :**
-
-![Recommandations](img/recommendations.png)
 
 ---
 
@@ -177,9 +171,6 @@ Développé dans le cadre du **TP10 - React & IA** de ma formation en **4ème an
 Voulez-vous plus de détails sur l'un de ces cours ?"
 ```
 
-**Capture d'écran :**
-
-![Chatbot](img/chatbot.png)
 
 ---
 
@@ -245,9 +236,7 @@ Voulez-vous plus de détails sur l'un de ces cours ?"
 - Feedback visuel immédiat
 - Résumé des performances
 
-**Capture d'écran :**
 
-![Générateur de Quiz](img/quiz-generator.png)
 
 ---
 
@@ -284,9 +273,6 @@ projets open source. Spécialisée en React, Node.js et
 Intelligence Artificielle.
 ```
 
-**Capture d'écran :**
-
-![Générateur de Bio](img/bio-generator.png)
 
 ---
 
@@ -402,9 +388,6 @@ Authorization: Bearer <token>
 - 📅 Date de publication
 - 📊 Note moyenne calculée automatiquement
 
-**Capture d'écran :**
-
-![Catalogue de Cours](img/courses-catalog.png)
 
 ---
 
